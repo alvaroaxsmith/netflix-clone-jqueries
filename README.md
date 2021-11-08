@@ -8,3 +8,4 @@
 - [x] Técnicas de CSS3 com containers e variáveis.
 - [x] Posicionamento de elementos com Flexbox.
 - [x] Utilização de plugins JQuery a favor da aplicação. 
+<p>Link para o site https://netflix-clone-jqueries.vercel.app/
